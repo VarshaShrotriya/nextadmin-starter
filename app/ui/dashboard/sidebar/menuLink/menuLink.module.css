@@ -1,0 +1,15 @@
+.container{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.container:hover,.active{
+    background: linear-gradient(to top, #182237,#253352);
+    color: white;
+    border: #182237;
+    border-radius: 10px;
+}

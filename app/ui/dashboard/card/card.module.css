@@ -1,0 +1,38 @@
+.container{
+    background-color: var(--bgsoft);
+    background: radial-gradient(circle, rgba(213,170,189,1) 13%, rgba(148,187,233,1) 100%);
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    grid:20px;
+    cursor: pointer;
+    width: 100%;
+}
+
+.container:hover{
+    background-color: #54658d;
+}
+
+.texts{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.number{
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.details{
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.positive{
+    color: yellow;
+}
+
+.negative{
+    color: red;
+}

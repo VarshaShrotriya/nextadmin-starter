@@ -1,0 +1,30 @@
+
+.container{
+    height: 450px;
+    background-color: var(--bgsoft);
+    background: radial-gradient(circle, rgba(213,170,189,1) 13%, rgba(148,187,233,1) 100%);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.title{
+    font-size: 200;
+    color: var(--textsoft);
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
